@@ -41,7 +41,7 @@ function plotWithHighCharts5(data) {
         text: '4. Grouped aggregation'
     };
     var subtitle = {
-        text: 'null'
+        text: '2001'
     };
     var xAxis = {
         categories: Object.keys(jsonvalue2),
