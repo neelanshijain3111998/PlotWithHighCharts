@@ -13,7 +13,7 @@ namespace JavascriptProject11
     {
         static void Main(string[] args)
         {
-
+            //Testcase1
             /*var reader = new StreamReader(@"C:\Users\yogen\source\repos\JavascriptProject1\WestBengal.csv");
             var rows = new CsvReader(reader, CultureInfo.InvariantCulture);
             Dictionary<string, int> AuthorizedCap = new Dictionary<string, int>
