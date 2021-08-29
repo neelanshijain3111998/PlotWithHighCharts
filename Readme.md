@@ -1,9 +1,9 @@
-Java Script Data Project 1
+# Java Script Data Project 1
 
 Here are the steps to download and run the program in visual studio 2019.
 
 > - Create a `new folder` on your computer where you want to download this. Then open `git bash Here` and run this command
->   `git clone git@github.com:neelanshijain3111998/JsDrillHigherOrderFunction.git`.
+>   `git clone git@github.com:neelanshijain3111998/PlotWithHighCharts.git`.
 > - Then, you will get all the files in your folder.
 > - Open visual studio 2019 from this folder.
 
